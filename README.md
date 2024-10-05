@@ -2,6 +2,8 @@
 Analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 
 # Prodigy InfoTech Data Science Internship Task 4
+<br>
+<img src="TASK-04.png"   >
 
 <!-- Welcome message for the task submission -->
 Welcome to my submission for Task 4 of the Data Science Internship at Prodigy Infotech. In this task, I have performed sentiment analysis on social media data to understand public opinion and attitudes towards specific topics or brands.
